@@ -6,7 +6,7 @@
         base
       </h1>
       <h2 class="subtitle">
-        My ace Nuxt.js project
+        William Verde -  Testing Nuxt.js
       </h2>
       <div class="links">
         <a
