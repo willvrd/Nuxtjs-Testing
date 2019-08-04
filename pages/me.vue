@@ -8,6 +8,7 @@
 
 
 export default {
+  layout: 'me',
   components: {
 
   }
