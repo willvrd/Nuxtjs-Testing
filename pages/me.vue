@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
+  <b-container class="me mt-5">
     <h1>Page Me</h1>
-  </div>
+  </b-container>
 </template>
 
 <script>
