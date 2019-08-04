@@ -34,6 +34,12 @@ import Logo from '~/components/Logo.vue'
 export default {
   components: {
     Logo
+  },
+  head:{
+    title: "Home",
+    meta: [
+      {hid:'description',name:'description',content:'Esta es la descripcion del Home'}
+    ]
   }
 }
 </script>
